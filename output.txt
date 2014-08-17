@@ -1,0 +1,12 @@
+[s] Available Scrapy objects:
+[s]   crawler    <scrapy.crawler.Crawler object at 0x03E45A90>
+[s]   item       {}
+[s]   request    <GET http://blog.csdn.net/u012150179/article/details/11749017>
+[s]   response   <200 http://blog.csdn.net/u012150179/article/details/11749017>
+[s]   settings   <scrapy.settings.Settings object at 0x03B10E90>
+[s]   spider     <Spider 'default' at 0x415fad0>
+[s] Useful shortcuts:
+[s]   shelp()           Shell help (print this help)
+[s]   fetch(req_or_url) Fetch request (or URL) and update local objects
+[s]   view(response)    View response in a browser
+>>> 
